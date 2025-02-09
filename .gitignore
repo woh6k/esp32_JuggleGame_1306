@@ -1,0 +1,7 @@
+.pio/
+include/
+.vscode/
+test/
+*.bin
+*.elf
+
